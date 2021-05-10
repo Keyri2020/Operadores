@@ -1,0 +1,14 @@
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\bin\Debug\ProgramConsola.exe.config
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\bin\Debug\ProgramConsola.exe
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\bin\Debug\ProgramConsola.pdb
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\obj\Debug\ProgramConsola.csprojAssemblyReference.cache
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\obj\Debug\ProgramConsola.csproj.CoreCompileInputs.cache
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\obj\Debug\ProgramConsola.exe
+C:\Users\keyri\OneDrive\Documentos\Visual Studio 2019\ProgramConsola\obj\Debug\ProgramConsola.pdb
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\bin\Debug\ProgramConsola.exe.config
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\bin\Debug\ProgramConsola.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\bin\Debug\ProgramConsola.pdb
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\obj\Debug\ProgramConsola.csprojAssemblyReference.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\obj\Debug\ProgramConsola.csproj.CoreCompileInputs.cache
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\obj\Debug\ProgramConsola.exe
+C:\Users\keyri\OneDrive\Escritorio\Ejercicio 2\ProgramConsola\obj\Debug\ProgramConsola.pdb
